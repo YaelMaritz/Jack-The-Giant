@@ -1,7 +1,13 @@
 fileFormatVersion: 2
 guid: e51f25c489d7d1840b8fdd1d44f4c7b6
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Start Game Button
+    21300002: High Score Button
+    21300004: Options Button
+    21300006: Quit Button
+    21300008: Sound Off Button
+    21300010: Sound On Button
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -104,7 +110,127 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Start Game Button
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 204
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a3d45168fa4941b9d348efa49d6ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Score Button
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 204
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c55e51d54879a46b9f7bda792a85b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Options Button
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 204
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb32ea4228bf3b45a03edade83ac2d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Button
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 204
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a1aeb8c867928419ec05f54fed07d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound Off Button
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5640d9fca806e26449493aebe0ce7c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound On Button
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe4dd2120e0a749bb62dc11484d1b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
